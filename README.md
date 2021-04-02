@@ -1,9 +1,9 @@
 # OpenBypass
 An MDM bypass & iOS OTA disabler/eraser application written in C#.
 
-# Development
+# Contributing
 
-Anyone is welcome to work on & contribute to the project as long as they abide by the license. Keep in mind any code added will be reviewed if submitted & may take a few days to be added to the repository.
+Anyone is welcome to work on & contribute to the project as long as they abide by the license. Keep in mind any code added will be reviewed if submitted & may take a few days to be added to the repository. If you wish to contribute, please fork this repository, make your changes, & create a pull request for the process to start.
 
 # Third Party Libraries
 
